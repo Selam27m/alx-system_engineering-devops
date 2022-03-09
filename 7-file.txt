@@ -1,0 +1,3 @@
+touch \*\\'"Best School"\'\\*$\?\*\*\*\*\*:).txt
+cat>>\*\\'"Best School"\'\\*$\?\*\*\*\*\*:).txt
+echo "Best School"
