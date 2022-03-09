@@ -1,1 +1,3 @@
 ls -lt | head
+$ tail /etc/passwd
+
