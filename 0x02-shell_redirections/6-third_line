@@ -1,1 +1,5 @@
 $>awk '{if(NR==3) print $0}' iacata
+[A
+
+[A[A[A[A[A[A[A[A[A[A[A[A[A
+$ tail -3 iacta.txt
