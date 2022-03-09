@@ -1,0 +1,6 @@
+echo "enter directory name"
+read Bdir
+if [ -d "$Bdir" ]
+then
+echo "directory already exists"
+else
