@@ -1,3 +1,6 @@
 echo "hello_world"
 $ echo $'Hello_world'
 echo -e "hellow_world"
+#!/bin/bash 
+echo "hello ,world"
+
