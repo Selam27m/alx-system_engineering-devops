@@ -1,3 +1,6 @@
 #!/bin/bash/
 local BEST=SCHOOL
 exit N
+#!/bin/bash
+local BEST=SCHOOL
+exit N 
