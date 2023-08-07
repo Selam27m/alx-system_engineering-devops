@@ -1,5 +1,2 @@
-$>awk '{if(NR==3) print $0}' iacata
-[A
-
-[A[A[A[A[A[A[A[A[A[A[A[A[A
-$ tail -3 iacta.txt
+#!/bin/bash
+head -n 3 iacta |tail -n 1
